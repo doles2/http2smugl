@@ -3,7 +3,7 @@ module github.com/neex/http2smugl
 go 1.19
 
 require (
-	github.com/lucas-clemente/quic-go v0.31.1
+	github.com/quic-go/quic-go v0.42.0
 	github.com/marten-seemann/qpack v0.3.0
 	github.com/spf13/cobra v1.6.1
 	golang.org/x/net v0.17.0
