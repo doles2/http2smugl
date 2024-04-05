@@ -1,4 +1,3 @@
-#module github.com/neex/http2smugl
 module github.com/doles2/http2smugl
 
 go 1.19
