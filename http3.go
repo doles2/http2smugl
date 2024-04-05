@@ -11,7 +11,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/lucas-clemente/quic-go"
+	"github.com/quic-go/quic-go"
 	"github.com/marten-seemann/qpack"
 	"golang.org/x/net/context"
 )
